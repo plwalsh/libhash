@@ -2,5 +2,7 @@
 *~
 .~*
 *.o
+*.so
 *.exe
 nbproject/*
+tests
